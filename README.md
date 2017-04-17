@@ -8,12 +8,16 @@
 
 Example of script launch on Linux, Python 3.5:
 
-```#!bash
-
 $ python pprint_json.py <path to file>
-# TODO add output example
+output:
+[
+    {
+        "Cells": {
+            "Address": "улица Академика Павлова, дом 10",
+            "AdmArea": "Западный административный округ",
+...
 
-```
+
 
 # Project Goals
 
