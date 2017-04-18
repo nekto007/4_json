@@ -1,13 +1,12 @@
 # Prettify JSON
 
-'''
+```
 Скрипт для форматирования json в читаемый вид.
+
 На вход скрипту подается путь до json файла.
-'''
+```
 
 # Quickstart
-
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
