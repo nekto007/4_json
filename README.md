@@ -1,6 +1,9 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+'''
+Скрипт для форматирования json в читаемый вид.
+На вход скрипту подается путь до json файла.
+'''
 
 # Quickstart
 
