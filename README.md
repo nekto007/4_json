@@ -9,12 +9,6 @@
 
 $ python pprint_json.py <path to file>
 
-output:
-[
-    {
-        "Cells": {
-            "Address": "улица Академика Павлова, дом 10",
-            "AdmArea": "Западный административный округ",
 ```
 
 
